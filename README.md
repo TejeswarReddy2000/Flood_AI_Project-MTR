@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/73b7b355-73fa-43f5-b05a-be31139079bb" /><img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/5a1b9669-6d8f-4df9-ae70-b5b86ff5359d" /># 🌊 Flood Detection & Gen-AI Assistant
+# 🌊 Flood Detection & Gen-AI Assistant
 
 Satellite-based flood analysis using Sentinel-1 SAR data and Generative AI (RAG)
 
