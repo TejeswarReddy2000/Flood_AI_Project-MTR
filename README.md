@@ -1,10 +1,10 @@
-#### 🌊 Flood Detection & Gen-AI Assistant
+# 🌊 Flood Detection & Gen-AI Assistant
 
 Satellite-based flood analysis using Sentinel-1 SAR data and Generative AI (RAG)
 
 An end-to-end project that detects floods using Sentinel-1 satellite imagery, stores flood knowledge in a FAISS vector database, and answers natural-language questions using a Groq-powered LLM, all through a Streamlit web app.
 
-### 🛰️ Satellite Used
+##🛰️ Satellite Used
 
 Satellite: Sentinel-1
 Agency: ESA (Copernicus Programme)
@@ -32,9 +32,11 @@ These reports power the Gen-AI (RAG) system
 
 Data Access: Google Earth Engine API
 
+## Flood Detected Satelite Images
 
+<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/96d7a83f-1f01-4182-bcc2-881a17402c70" />
 
-### ✨ Features
+## ✨ Features
 
 🛰️ Satellite-based flood detection (Sentinel-1)
 
@@ -49,7 +51,7 @@ Data Access: Google Earth Engine API
 🌐 Interactive Streamlit web interface
 
 
-### Workflow
+## Workflow
 
 Sentinel-1 Satellite Data
         ↓
@@ -68,7 +70,7 @@ Groq LLM (LLaMA-3)
 Streamlit Web App
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Language: Python 3.11
 
@@ -84,7 +86,7 @@ Framework: LangChain
 
 Frontend: Streamlit
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 
 Flood_AI_Project/
@@ -106,17 +108,17 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 
-### 🔑 Environment Variables
+## 🔑 Environment Variables
 Create a .env file in the project root
 
 GROQ_API_KEY=your_groq_api_key
 
 
-### ▶️ Run the Application
+## ▶️ Run the Application
 
 streamlit run app.py
 
-### 🧪 Example Queries
+## 🧪 Example Queries
 
 Is Assam under high flood risk?
 
@@ -127,7 +129,7 @@ Explain flood severity in simple words
 How does satellite data help in flood monitoring?
 
 
-### 🎯 Use Cases
+## 🎯 Use Cases
 
 Disaster management & early warning systems
 
@@ -138,5 +140,5 @@ Smart city flood analytics
 AI-driven decision support systems
 
 
-### 📌 Summary
+## 📌 Summary
 This project demonstrates a real-world integration of satellite remote sensing and Generative AI, showing how Sentinel-1 SAR data + vector search + LLM reasoning can be used to build scalable and explainable flood analysis systems.
