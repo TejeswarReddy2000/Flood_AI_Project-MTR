@@ -1,4 +1,4 @@
-# 🌊 Flood Detection & Gen-AI Assistant
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/73b7b355-73fa-43f5-b05a-be31139079bb" /><img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/5a1b9669-6d8f-4df9-ae70-b5b86ff5359d" /># 🌊 Flood Detection & Gen-AI Assistant
 
 Satellite-based flood analysis using Sentinel-1 SAR data and Generative AI (RAG)
 
@@ -35,6 +35,13 @@ Data Access: Google Earth Engine API
 ## Flood Detected Satelite Images
 
 <img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/96d7a83f-1f01-4182-bcc2-881a17402c70" />
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/724a17dc-825d-44b5-bfb6-f695ef9d42ee" />
+<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/dc1699f6-944e-4bbf-a360-f62587a59898" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/fa96ba2b-ae65-41a2-b346-f8401edd9a54" />
+
+## Code Struture
+
+<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/326e3c44-fa51-431d-bd81-4909a229e103" />
 
 ## ✨ Features
 
